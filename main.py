@@ -8,7 +8,7 @@ def numsTest():
         num = negativeNum.negativeNum(num)
     elif num > 0:
         num = positiveNum.positiveNum(num)
-    print(num.num)
+    print(num.getNum())
 
 
 def solveEquation():
